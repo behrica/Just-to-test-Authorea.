@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/unnamed-chunk-34-1/unnamed-chunk-34-1.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/65206/articles/164977/master/file/figures/unnamed-chunk-34-1/unnamed-chunk-34-1.png"
